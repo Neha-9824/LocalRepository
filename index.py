@@ -23,3 +23,5 @@ and Automation Tasks. For many years now, it has been ranked among the top Progr
 
 
 '''
+a = {10,20.30,40,50}
+print(a)
